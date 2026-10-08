@@ -1,0 +1,32 @@
+* {
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: #5a86a276;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: #b1b6e6;
+    padding: 20px;
+    margin: 80px auto;
+    width: 500px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);    
+
+}
+.image {
+    border-radius: 50%;
+}
+.hobi{
+    background-color: #c5dfa4d1;
+    border-radius:50px;
+    margin: 10px;
+}
+
+.link{
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 10px;    
+}
